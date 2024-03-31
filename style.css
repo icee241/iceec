@@ -1,0 +1,77 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+    background-color: rgb(106, 219, 148);
+
+}
+.headings{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 5em;
+    font-style: italic;
+    font-weight: 900;
+}
+.textbox{
+    background-color: white;
+    border-radius: 5px;
+    border: solid 5px black;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5em;
+
+}
+
+.clear{
+    background-color: white;
+    border-radius: 5px;
+    border: solid 5px black;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bolder;  
+}
+
+.add{
+    background-color: white;
+    border-radius: 5px;
+    border: solid 5px black;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bolder;   
+}
+.sub{
+    background-color: white;
+    border-radius: 5px;
+    border: solid 5px black;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bolder;   
+}
+.mul{
+    background-color: white;
+    border-radius: 5px;
+    border: solid 5px black;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bolder;   
+}
+
+.div{
+    background-color: white;
+    border-radius: 5px;
+    border: solid 5px black;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bolder;
+}
+.clear,.add,.sub,.mul,.div{
+    width: 100px;
+    height: 100px;
+    font-size: 2em;
+  text-align:center;
+}
+
+.subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: 900;
+}
